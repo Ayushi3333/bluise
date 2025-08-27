@@ -2,7 +2,6 @@
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
 So far we've got:
 
@@ -55,4 +54,5 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
 
