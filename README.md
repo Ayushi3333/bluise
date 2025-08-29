@@ -1,18 +1,5 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-
-
-Few things I'd like to add in the future:
-
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
-
 ## Quickstart
 
 ### Prerequisites
@@ -49,6 +36,7 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
 
 
 
